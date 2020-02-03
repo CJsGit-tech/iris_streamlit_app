@@ -6,18 +6,34 @@ Here is the project reference:
 
  https://datasciencechalktalk.com/2019/10/22/building-machine-learning-apps-with-streamlit/
  
-Although I made some edits to the body code, the idea behind my app is fully depending on the auother "valentinaalto's" procedure 
+Although I made some edits to the body code, the idea behind my app is fully dependent on the auother "valentinaalto's" procedure 
 in creating the Machine Learning app. She/He has motivated me to explore more on the use of streamlit. 
 
-1.pip install pandas
+# Installation
 
-2.pip install streamlit
+This repository is tested on Python 3.5+
 
-3.pip install matplotlib
+Clone the repository
 
-4.run the py script with $streamlit run iris.py
 
-General Overview of the App
+```sh
+$ git clone https://github.com/CJtheSloth/iris_streamlit_app
+$ cd streamlit_finance
+```
+
+Install the dependencies
+
+```sh
+$ pip install pandas streamlit matplotlib
+```
+
+Run the application on `http://localhost:8501/`
+
+```sh
+$ streamlit run finance.py
+```
+
+General Overview of the Iris App
 <img src = "iris_app_images/step-1.PNG">
 <img src = "iris_app_images/step-2.PNG">
 <img src = "iris_app_images/step-3.PNG">
