@@ -9,6 +9,11 @@ Here is the project reference:
 Although I made some edits to the body code, the idea behind my app is fully depending on the auother "valentinaalto's" procedure 
 in creating the Machine Learning app. She/He has motivated me to explore more on the use of streamlit. 
 
+1.pip install pandas
+2.pip install streamlit
+3.pip install matplotlib
+4.run the py script with $streamlit run iris.py
+
 General Overview of the App
 <img src = "iris_app_images/step-1.PNG">
 <img src = "iris_app_images/step-2.PNG">
