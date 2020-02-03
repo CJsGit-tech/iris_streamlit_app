@@ -11,8 +11,8 @@ in creating the Machine Learning app. She/He has motivated me to explore more on
 
 General Overview of the App
 <img src = "iris_app_images/step-1.PNG">
-<img src = "iris_app_images/step-1.PNG">
-<img src = "iris_app_images/step-1.PNG">
+<img src = "iris_app_images/step-2.PNG">
+<img src = "iris_app_images/step-3.PNG">
 
 Here are the example results
 <img src = "iris_app_images/result-1.PNG">
