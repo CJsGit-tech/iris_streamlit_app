@@ -30,7 +30,7 @@ $ pip install pandas streamlit matplotlib
 Run the application on `http://localhost:8501/`
 
 ```sh
-$ streamlit run finance.py
+$ streamlit run iris.py
 ```
 
 General Overview of the Iris App
