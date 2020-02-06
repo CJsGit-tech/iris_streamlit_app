@@ -18,7 +18,7 @@ Clone the repository
 
 ```sh
 $ git clone https://github.com/CJtheSloth/iris_streamlit_app
-$ cd streamlit_finance
+$ cd streamlit_iris
 ```
 
 Install the dependencies
